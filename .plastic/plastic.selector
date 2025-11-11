@@ -1,0 +1,4 @@
+repository "Maze Cup 2025-08-19_15-20-25/Maze Cup 2025-10-11_20-57-17@10170690675203@cloud"
+  path "/"
+    br "/main"
+    co "/main"
